@@ -1,0 +1,21 @@
+{
+  "item.ambermod.amber": "Amber",
+  "item.ambermod.raw_amber": "Amber Raw",
+
+  "block.ambermod.amber_block": "Amber Block",
+  "block.ambermod.amber_ore": "Amber Ore",
+  "block.ambermod.deepslate_amber_ore": "Deepslate Amber Ore",
+
+  "item.ambermod.amber_sword": "Amber sword",
+  "item.ambermod.amber_pickaxe": "Amber Pickaxe",
+  "item.ambermod.amber_axe": "Amber Axe",
+  "item.ambermod.amber_shovel": "Amber Shovel",
+  "item.ambermod.amber_hoe": "Amber Hoe",
+
+  "item.ambermod.amber_helmet": "Amber Helmet",
+  "item.ambermod.amber_chestplate": "Amber Chestplate",
+  "item.ambermod.amber_leggings": "Amber Leggings",
+  "item.ambermod.amber_boots": "Amber Boots",
+
+  "creativetab.amber_tab": "Amber tab"
+}
